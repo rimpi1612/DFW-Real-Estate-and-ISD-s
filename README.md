@@ -12,7 +12,7 @@ The scenario behind this project is that we are working for a real estate compan
 We have created  a Dashboard where parents/potential house buyers can easily click through the public school districts in the four main DFW Counties to see what is the best bang for their buck they can get school district wise.  To do this we are pulling data from the Texas Education Agency and the Appraisal Districts for the four counties (Collin, Dallas, Denton, Tarrant)
 
 ## Data
-[School District Rankings & Property Tax](DFW_RE.CSV)
+[School District Rankings & Property Tax](DFW_RE.csv)
 
 Project worked on by: 
 * [Jimmy Brown](https://github.com/jbrown2155)
