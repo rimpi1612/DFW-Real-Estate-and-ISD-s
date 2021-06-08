@@ -6,10 +6,13 @@
 
 ### This is the rough proof of concept for the Read-Me. 
 
-## Housing and Schooling: What you need to know about Housing Prices, Taxes, and School District Performance
+# <p align="center"> Housing and Schooling </p>
+  <p align="center"> Where to go for the perfect house for your family and the perfect school for your children. </p>
 
-The scenario behind this project is that we are working for a real estate company in the DFW Metroplex. We are interested in making sure that parents have the best information available when making their choice on to live.  
-We have created  a Dashboard where parents/potential house buyers can easily click through the public school districts in the four main DFW Counties to see what is the best bang for their buck they can get school district wise.  To do this we are pulling data from the Texas Education Agency and the Appraisal Districts for the four counties (Collin, Dallas, Denton, Tarrant)
+## Premise
+We are working for a real estate company in the Dallas-Fort Worth Metroplex that wishes to specialise in sellings homes to families coming into the area. 
+
+We have created  a Dashboard where parents/potential house buyers can easily click through the public school districts in the four main DFW Counties to see what is the best bang for their buck they can get school district wise. 
 
 ## Data
 
