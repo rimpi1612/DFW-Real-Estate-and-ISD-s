@@ -41,5 +41,5 @@ Finalized Data: [School District Rankings & Property Tax](DFW_RE.csv)
 * [Jimmy Brown](https://github.com/jbrown2155)
 * [Syeda Hasan](https://github.com/rimpi1612) 
 * [David Ready](https://github.com/CrusadingGroundhog)
-* Samson Bui 
+* [Samson Bui](https://github.com/SamsonBui)
 * Ben Mills
