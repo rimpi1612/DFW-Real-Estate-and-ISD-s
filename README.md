@@ -35,6 +35,10 @@ Finalized Data: [School District Rankings & Property Tax](DFW_RE.csv)
 
 ## Process
 
+## Analysis
+
+## Charts
+
 ## GIF of Dashboard
 
 ## Project Worked On By: 
