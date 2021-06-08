@@ -1,10 +1,6 @@
 # Project-1
 
-####### This is testing for branch.
 ![SchoolHome](SchoolandHome.png)
-
-
-### This is the rough proof of concept for the Read-Me. 
 
 # <p align="center"> Housing and Schooling </p>
   <p align="center"> Where to go for the perfect house for your family and the perfect school for your children. </p>
