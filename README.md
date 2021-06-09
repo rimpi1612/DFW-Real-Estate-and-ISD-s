@@ -31,9 +31,15 @@ We cleaned up the data from multiple sources, the previously mentioned TEA and A
 * School District Ratings: Only two years of Data due to a change in Ratings to A-F from a pass-fail in previous years and a lack of data due to the strange 2020 Covid school year. 
    
 
-Finalized Data: [School District Rankings & Property Tax](DFW_RE.csv)
+Finalized Data: [School District Rankings & Property Tax](dfw_real_estate_isd.csv)
 
 ## Process
+
+* TEA spreadsheets provide comptroller tax information, including property tax rates by district for the specified tax years. These files that were downloaded from the site needed to be shortented. A district's property tax rate consists of a maintenance and operations (M&O) tax rate and, an interest and sinking (I&S) tax rate. The M&O tax rate provides funds for maintenance and operations. 
+* The I&S tax rate provides funds for payments on the debt that finances a district's facilities. The calculation of state funding for school districts is tied to tax effort; thus, tax rates provide an essential component in the state's school finance formulas. With these detail informations, one master .csv file is created.
+* The data had school Rating in Character. The character representation were transformed into numeric representation with 4 scale.
+* The API from Texas Education Agency Public Open Data Site was used for getting the  current school information. The API  covers school educational information along with schools' locations, schools' contact information, such as phone numbers, fax numbers, emails,  and school scores.
+* The data collected from both sources were cleaned. Some of the null value were fill with value accordingly
 
 ## Analysis
 
