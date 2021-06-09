@@ -59,7 +59,7 @@ Finalized Data: [School District Rankings & Property Tax](dfw_real_estate_isd.cs
 ![GifThree](District_Rating_Tab.gif)
 
 ## Project Worked On By: 
-* [Jimmy Brown](https://github.com/jbrown2155)
-* [Syeda Hasan](https://github.com/rimpi1612) 
-* [David Ready](https://github.com/CrusadingGroundhog)
+* [Jimmy Brown](https://github.com/jbrown2155) Primary Data Cleaner & Gatherer/Reviewed code.
+* [Syeda Hasan](https://github.com/rimpi1612) Primary Coder
+* [David Ready](https://github.com/CrusadingGroundhog) Primary work for Read.Me / Reviewed code.
 * [Samson Bui](https://github.com/SamsonBui)
