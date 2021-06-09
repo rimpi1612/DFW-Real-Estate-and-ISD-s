@@ -43,6 +43,9 @@ Finalized Data: [School District Rankings & Property Tax](DFW_RE.csv)
 ![GraphOne](Graphs/AvgPropertyValueScatterPlot.png)
 
 ## GIF of Dashboard
+![GifOne](Bar_Analysis_Tab.gif)
+![GifTwo](Sunburst_Tab.gif)
+![GifThree](District_Rating_Tab.gif)
 
 ## Project Worked On By: 
 * [Jimmy Brown](https://github.com/jbrown2155)
