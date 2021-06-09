@@ -38,9 +38,14 @@ Finalized Data: [School District Rankings & Property Tax](DFW_RE.csv)
 ## Analysis
 
 ## Charts
-<p align="center"> Scatterplot for Average Property Value by District/County </p>
 
-![GraphOne](Graphs/AvgPropertyValueScatterPlot.png)
+![GraphTwo](Graphs/Rating_By_Income.png)
+
+![GraphThree](Graphs/Rating_By_Value.png)
+
+![GraphFour](Graphs/Rating_By_TaxDue.png)
+
+![GraphFive](Graphs/Rating_By_TaxRate.png)
 
 ## GIF of Dashboard
 ![GifOne](Bar_Analysis_Tab.gif)
@@ -52,4 +57,3 @@ Finalized Data: [School District Rankings & Property Tax](DFW_RE.csv)
 * [Syeda Hasan](https://github.com/rimpi1612) 
 * [David Ready](https://github.com/CrusadingGroundhog)
 * [Samson Bui](https://github.com/SamsonBui)
-* Ben Mills
