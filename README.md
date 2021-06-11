@@ -43,6 +43,33 @@ Finalized Data: [School District Rankings & Property Tax](dfw_real_estate_isd.cs
 
 ## Analysis
 
+There are several categories you can divide most of these school districts into with our system we have devised. 
+
+The most informative for our purpose of devising the code/program we did would be the “Best Value” and the “Worst Value”. While Highland Park scores extremely high on our scale, it is also one of the most expensive places Independent School Districts, it is the same with Southlake Carroll. People who just want the best possible school district without regards to the price would not need the creation that we devised. 
+
+The same thing with Lake Worth, Fort Worth, Desoto and the like. They are all C rated School Districts so if a parent is concerned with their child’s school, they would want to avoid these school districts. 
+
+Best Values if looking for cheap house/good school: 
+
+| ISD  | School Rating  | Median House Value | Tax Rate | Tax Owed |
+| ------------- | ------------- |---| --- | --- | 
+|Farmersville| A |206, 990 USD |.0121% |2503.38 USD |
+|Bland | A | 202,653 USD | .0131 % |2654.75 USD |
+|HEB | A |243,345 USD |.0112% | 2968.809 USD |
+|Blue Ridge| A | 205,297 USD | | |
+|ERA | B |48,839 USD |.0114 |556.76 USD |
+
+
+Worst Value for cheap house/good school
+| ISD  | School Rating  | Median House Value | Tax Rate | Tax Owed |
+| ------------- | ------------- |---| --- | --- | 
+|Godley | C |396,340 USD |.0147% |5826.20 USD |
+|Dallas | B |473,428 USD |.0131% |6203.74 USD |
+|Dallas ISD | B | | | |
+|Dallas ISD | B | | | |
+|Dallas ISD | B | | | |
+
+
 ## Charts
 
 ![GraphTwo](Graphs/Rating_By_Income.png)
