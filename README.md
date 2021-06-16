@@ -47,8 +47,6 @@ There are several categories you can divide most of these school districts into 
 
 The most informative for our purpose of devising the code/program we did would be the “Best Value” and the “Worst Value”. While Highland Park scores extremely high on our scale, it is also one of the most expensive places Independent School Districts, it is the same with Southlake Carroll. People who just want the best possible school district without regards to the price would not need the creation that we devised. 
 
-The same thing with Lake Worth, Fort Worth, Desoto and the like. They are all C rated School Districts so if a parent is concerned with their child’s school, they would want to avoid these school districts. 
-
 Best Values if looking for cheap house/good school: 
 
 | ISD  | School Rating  | Median House Value | Tax Rate | Tax Owed |
@@ -56,8 +54,8 @@ Best Values if looking for cheap house/good school:
 |Farmersville| A |206, 990 USD |.0121% |2503.38 USD |
 |Bland | A | 202,653 USD | .0131 % |2654.75 USD |
 |HEB | A |243,345 USD |.0112% | 2968.809 USD |
-|Blue Ridge| A | 205,297 USD | | |
-|ERA | B |48,839 USD |.0114 |556.76 USD |
+|Blue Ridge| A | 205,297 USD |.0114% |2340.39 USD |
+|ERA | B |48,839 USD |.0114% |556.76 USD |
 
 
 Worst Value for cheap house/good school
@@ -65,9 +63,11 @@ Worst Value for cheap house/good school
 | ------------- | ------------- |---| --- | --- | 
 |Godley | C |396,340 USD |.0147% |5826.20 USD |
 |Dallas | B |473,428 USD |.0131% |6203.74 USD |
-|Dallas ISD | B | | | |
-|Dallas ISD | B | | | |
-|Dallas ISD | B | | | |
+|Desoto | C |188, 759 USD |.0149%| 2812.51 USD |
+|Leonard| C |166,413 USD | .0115%| 1913.75 USD  |
+|Lake Worth | C |129,349 USD |.0162% |2095.45 USD  |
+
+* Overall while the best choice in schools are found in the areas with the highest median income
 
 
 ## Charts
@@ -86,6 +86,15 @@ Worst Value for cheap house/good school
 ![GifThree](District_Rating_Tab.gif)
 
 ## Conclusion
+### The Program
+* The Code worked to our expectations, it painted a picture that we would be willing to show prospective real estate buyers who are looking to move in the DFW Metroplex. It's a basic overview of all of the school districts but could be easily modified for more details in both the school rankings and what specific schools are the best in the Districts fairly easily. 
+
+### The Results 
+* The Results from our program fell in line with what could be expected. The best performing schools were not correlated with the property tax percentage but the overall property values & median income. It did not matter if you had a high property tax percentage going to schools as long as the median property value was expensive. After all 5% of 500 dollars is worth more than 10% of 50 dollars. 
+* As shown in the analysis we were able to show a wide variety of the best school districts, the value school districts, and the school districts to avoid at all cost. 
+* Anyone who uses our tools should be able to figure out the best schools, see connections of school performance amongst all of our data points and make the  
+
+
 
 ![ConOne](percentage_rating.png)
 ![ConTwo](percentage_isd.png)
@@ -94,4 +103,3 @@ Worst Value for cheap house/good school
 * [Jimmy Brown](https://github.com/jbrown2155) Primary Data Cleaner & Gatherer/Reviewed code.
 * [Syeda Hasan](https://github.com/rimpi1612) Primary Coder
 * [David Ready](https://github.com/CrusadingGroundhog) Primary work for Read.Me / Reviewed code.
-* [Samson Bui](https://github.com/SamsonBui)
