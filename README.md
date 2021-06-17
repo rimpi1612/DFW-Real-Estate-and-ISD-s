@@ -74,7 +74,7 @@ Worst Value for cheap house/good school
 
 ![GraphTwo](Graphs/Rating_By_Income.png)
 
-![GraphThree](Graphs/Rating_By_Value.png)
+![GraphThree](Graphs/MedianPropertyValue.png)
 
 ![GraphFour](Graphs/Rating_By_TaxDue.png)
 
