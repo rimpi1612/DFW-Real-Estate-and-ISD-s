@@ -95,4 +95,3 @@ Worst Value for cheap house/good school
 * [Jimmy Brown](https://github.com/jbrown2155) Primary Data Cleaner & Gatherer/Reviewed code.
 * [Syeda Hasan](https://github.com/rimpi1612) Primary Coder
 * [David Ready](https://github.com/CrusadingGroundhog) Primary work for Read.Me / Reviewed code.
-* [Samson Bui](https://github.com/SamsonBui)
