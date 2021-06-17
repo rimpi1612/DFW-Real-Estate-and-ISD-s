@@ -84,7 +84,6 @@ Worst Value for cheap house/good school
 ![GifOne](Bar_Analysis_Tab.gif)
 ![GifTwo](Sunburst_Tab.gif)
 ![GifThree](District_Rating_Tab.gif)
-![Dashboard](dashboard.mp4)
 
 
 ## Conclusion
